@@ -1,0 +1,5 @@
+com\springboot\crud\entity\MyBean.class
+com\springboot\crud\entity\Product.class
+com\springboot\crud\repo\ProductRepo.class
+com\springboot\crud\controller\ProductController.class
+com\springboot\crud\SpringbootCrudApplication.class
